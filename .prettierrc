@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "files": "*.jsx, *.js",
+      "options": {
+        "tabWidth": 4
+      }
+    }
+  ]
+}
