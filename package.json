@@ -45,7 +45,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "optionalDependencies": [] 
+    "optionalDependencies": []
   },
   "devDependencies": {
     "@storybook/addon-actions": "^6.1.14",
@@ -55,6 +55,7 @@
     "@storybook/preset-create-react-app": "^3.1.5",
     "@storybook/preset-scss": "^1.0.3",
     "@storybook/react": "^6.1.20",
+    "chromatic": "^6.4.1",
     "postcss": "^8.3.6",
     "postcss-loader": "^6.1.1",
     "react-app-rewired": "^2.1.8"
